@@ -7,3 +7,11 @@
 - fill out a form
 - click submit
 
+## additional steps 
+
+- interact with dropdown menus
+- check multiple choice boxes
+- pick a color
+- select date from calendar
+- move a slider
+- press submit
